@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Trong-Tin (Tommy) Nguyen
 
-<!--
-**trongtin142/trongtin142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD candidate in Economics at **EconomiX (CNRS), Université Paris Nanterre**, and contract lecturer at **Sciences Po** and **ESCP Business School**. My research sits at the intersection of economic growth, public finance and sustainability, with a focus on Vietnam and aid-recipient countries.
 
-Here are some ideas to get you started:
+**Thesis:** *Productive efficiency, corruption and economic growth in aid recipient countries* (supervised by Thi Kim Cuong Pham and Ngoc-Sang Pham)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research
+
+- **Growth and institutions:** intertemporal general equilibrium models of growth, innovation, taxation and corruption
+- **Climate and trade policy:** applied CGE modelling (GTAP) of carbon pricing and the EU Carbon Border Adjustment Mechanism
+- **Public finance and development:** applied econometrics on foreign aid, governance and public expenditure
+- **Sustainability:** circular economy and agroforestry for rural livelihoods and land restoration in Vietnam
+
+### Teaching
+
+- **Sciences Po**, France (2025–present): Trade and International Finance; Quantitative Methods for the Social Sciences; Mathematics Applied to Quantitative Social Sciences
+- **ESCP Business School**, Paris (2026–present): Microeconomics
+- **International University, VNU-HCM**, Vietnam (2025–present): Statistics for Business; Organizational Behavior
+- Previously: Université Paris Nanterre (2023–2025); Ho Chi Minh City University of Law (2013–2023)
+
+### Open source
+
+- [**cofog-panel**](https://github.com/trongtin142/cofog-panel): a traceable Python tool that builds cross-country panels of government expenditure by function (COFOG) from IMF GFS data
+
+### Tools
+
+GTAP / GEMPACK · Stata · R · Python · LaTeX
+
+### Links
+
+[Website](https://trongtin142.github.io) · [ORCID](https://orcid.org/0009-0006-0017-6374) · [LinkedIn](https://www.linkedin.com/in/trongtin142)
