@@ -6,19 +6,7 @@ I'm strongly devoted to sharing knowledge and guidance with the next generation 
 
 Please don't hesitate to contact me if you're interested in collaborating or discussing potential projects!
 
-### Research
-
-- **Growth and institutions:** intertemporal general equilibrium models of growth, innovation, taxation and corruption
-- **Climate and trade policy:** applied CGE modelling (GTAP) of carbon pricing and the EU Carbon Border Adjustment Mechanism
-- **Public finance and development:** applied econometrics on foreign aid, governance and public expenditure
-- **Sustainability:** circular economy and agroforestry for rural livelihoods and land restoration in Vietnam
-
-### Teaching
-
-- **Sciences Po**, France (2025–present): Trade and International Finance; Quantitative Methods for the Social Sciences; Mathematics Applied to Quantitative Social Sciences
-- **ESCP Business School**, Paris (2026–present): Microeconomics
-- **International University, VNU-HCM**, Vietnam (2025–present): Statistics for Business; Organizational Behavior
-- Previously: Université Paris Nanterre (2023–2025); Ho Chi Minh City University of Law (2013–2023)
+For more about my research and teaching, please visit my personal website: [trongtin142.github.io](https://trongtin142.github.io)
 
 ### Open source
 
